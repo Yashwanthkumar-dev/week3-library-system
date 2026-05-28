@@ -91,6 +91,12 @@ java -cp bin com.library.Main
 7. View Library Statistics
 8. Exit
 ## Screenshots
+![Main Menu](https://github.com/Yashwanthkumar-dev/week3-library-system/blob/8f050e58270eeddc7f52919680ff0afd84f8ac12/project/image_folder/Screenshot%20from%202026-05-28%2019-21-10.png)
+![Main Menu](https://github.com/Yashwanthkumar-dev/week3-library-system/blob/8f050e58270eeddc7f52919680ff0afd84f8ac12/project/image_folder/Screenshot%20from%202026-05-28%2019-21-38.png)
+![Main Menu](https://github.com/Yashwanthkumar-dev/week3-library-system/blob/8f050e58270eeddc7f52919680ff0afd84f8ac12/project/image_folder/Screenshot%20from%202026-05-28%2019-21-55.png)
+![Main Menu](https://github.com/Yashwanthkumar-dev/week3-library-system/blob/8f050e58270eeddc7f52919680ff0afd84f8ac12/project/image_folder/Screenshot%20from%202026-05-28%2019-22-15.png)
+![Main Menu](https://github.com/Yashwanthkumar-dev/week3-library-system/blob/8f050e58270eeddc7f52919680ff0afd84f8ac12/project/image_folder/Screenshot%20from%202026-05-28%2019-22-22.png)
+
 ## Key Concepts Used
 - Encapsulation (Private fields in classes)
 - Abstraction (Service layer design)
